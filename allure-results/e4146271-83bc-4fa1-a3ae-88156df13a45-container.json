@@ -1,0 +1,1 @@
+{"uuid":"e4146271-83bc-4fa1-a3ae-88156df13a45","name":"com.nexauk.Setup.setUp","children":["476f81c7-3def-4c89-a680-e9c603e4ba8f"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1761125649353,"stop":1761125674775}],"afters":[],"start":1761125649351,"stop":1761125674777}

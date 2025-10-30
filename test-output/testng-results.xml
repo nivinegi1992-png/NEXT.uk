@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-26T21:38:43 IST" name="Default suite" finished-at="2025-10-26T21:39:38 IST" duration-ms="55497">
+    <groups>
+    </groups>
+    <test started-at="2025-10-26T21:38:43 IST" name="Default test" finished-at="2025-10-26T21:39:38 IST" duration-ms="55497">
+      <class name="com.nextwebsite.CaptureScreenShots">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nextwebsite.CaptureScreenShots@24959ca4]" started-at="2025-10-26T21:38:43 IST" name="setUp" finished-at="2025-10-26T21:39:02 IST" duration-ms="19166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="captureHomePageFullScreenshot()[pri:0, instance:com.nextwebsite.CaptureScreenShots@24959ca4]" started-at="2025-10-26T21:39:02 IST" name="captureHomePageFullScreenshot" finished-at="2025-10-26T21:39:37 IST" duration-ms="35128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureHomePageFullScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nextwebsite.CaptureScreenShots@24959ca4]" started-at="2025-10-26T21:39:37 IST" name="tearDown" finished-at="2025-10-26T21:39:38 IST" duration-ms="755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nextwebsite.CaptureScreenShots -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
