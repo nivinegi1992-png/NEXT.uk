@@ -1,0 +1,1 @@
+{"uuid":"306acc14-c4c9-4d9a-a38a-7d7d1163bb44","name":"com.nexauk.Setup.tearDown","children":["2f3c9aa8-8784-4570-b9b9-7429c57c130e"],"description":"","befores":[],"afters":[{"name":"tearDown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1761048400854,"stop":1761048401523}],"start":1761048400852,"stop":1761048401523}
